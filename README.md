@@ -5,3 +5,5 @@
 </a>
 
 ![](https://hit.yhype.me/github/profile?user_id=35279568)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rupa4ok)](https://github.com/ryo-ma/github-profile-trophy)
